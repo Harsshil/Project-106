@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(228, 228, 228);
+}
+
+#division{
+    background-color: rgb(255, 115, 0);
+}
+
+#image{
+    height: 300px;
+    width: 300px;
+}
